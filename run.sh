@@ -1,1 +1,1 @@
-rm -rf session && mkdir session && node .
+rm -rf sessions && mkdir sessions && node .
